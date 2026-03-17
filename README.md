@@ -1,40 +1,76 @@
-# Vishal Chauhan
+<div align="center">
 
-**Cybersecurity Engineer · Full Stack Developer**
+# 👨‍💻 Vishal Chauhan
 
-Building secure systems, automation tools, and scalable web applications.
-Focused on **offensive security, WAF research, and backend engineering**.
+### `Cybersecurity Engineer | Full Stack Developer`
 
----
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Building+Secure+Systems;Offensive+Security+Research;Automation+%26+Scalable+Apps" />
 
-## ⚡ Tech Stack
-
-**Languages:** Python, JavaScript, TypeScript
-**Tools:** Node.js, Git, Linux
-**Focus:** Web Security · Automation · System Design
+</div>
 
 ---
 
-## 🚀 Key Projects
+## 🧠 Profile
 
-* **WAF-Bypass-Tester** — Web firewall testing toolkit
-* **CampusOS** — Digital campus platform
-* **Proxy Scraper** — High-performance proxy system
+Cybersecurity-focused developer building tools and systems with emphasis on **security, performance, and automation**.
+Experienced in developing real-world solutions across **web, infrastructure, and security testing**.
 
 ---
 
-## 📊 Stats
+## ⚙️ Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cyb3r-vishal\&show_icons=true\&theme=tokyonight\&hide_border=true)
+```bash
+Languages   → Python, JavaScript, TypeScript  
+Backend     → Node.js, APIs, System Design  
+Security    → WAF Testing, Recon, Automation  
+Environment → Linux, Git, CLI
+```
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3r-vishal\&layout=compact\&theme=tokyonight\&hide_border=true)
+---
+
+## 🚀 Highlight Projects
+
+### 🔐 WAF-Bypass-Tester
+
+Advanced toolkit for analyzing and bypassing web application firewalls.
+
+### 🌐 CampusOS
+
+Scalable digital ecosystem for campus infrastructure.
+
+### 🕸️ Proxy Scraper
+
+High-speed proxy collection, validation, and rotation system.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyb3r-vishal&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3r-vishal&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3r-vishal&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
 ## 🌐 Connect
 
-Website: https://vishalchauhan.in/
+* Portfolio → https://vishalchauhan.in/
 
 ---
 
-⚠️ *All security tools are for educational and ethical use only.*
+## ⚠️ Disclaimer
+
+All security-related projects are intended strictly for **educational and ethical research purposes**.
+
+---
+
+<div align="center">
+
+### ⚡ "Break. Understand. Secure."
+
+</div>
