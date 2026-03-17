@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hey, I'm Vishal Chauhan
 
-<!--
-**cyb3r-vishal/cyb3r-vishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cybersecurity Enthusiast | 🛠️ Full Stack Developer | ⚡ Builder of CampusOS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔐 Passionate about **Web Security & WAF Bypass Techniques**
+* 🧠 Exploring **Offensive Security & Automation**
+* 🏗️ Building real-world tools like **CampusOS**
+* 🌍 Based in India
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+💻 Languages: Python, JavaScript, TypeScript  
+⚙️ Tools: Node.js, Git, Linux  
+🔐 Security: WAF Testing, Proxy Systems, Scraping  
+```
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 WAF-Bypass-Tester
+
+> Advanced penetration testing tool for bypassing web application firewalls
+> ⚙️ Python | 🛡️ Security Research
+
+---
+
+### 🌐 CampusOS
+
+> A digital campus ecosystem platform
+> ⚙️ TypeScript | Full Stack
+
+---
+
+### 🕸️ Proxy Scraper
+
+> High-speed proxy scraping and validation system
+> ⚙️ Python | Networking
+
+---
+
+## 📊 GitHub Stats
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb3r-vishal\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3r-vishal\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+* 🌐 Website: https://vishalchauhan.in/
+* 🐦 Twitter: (add if you have)
+* 💼 LinkedIn: (add this)
+
+---
+
+## ⚡ Fun Fact
+
+> I break things 🔥 and rebuild them stronger 💪
