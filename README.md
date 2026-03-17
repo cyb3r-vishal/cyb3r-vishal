@@ -2,7 +2,7 @@
 
 # 👨‍💻 Vishal Chauhan
 
-### `Cybersecurity Enthusiast | Aspiring Security Researcher | Full Stack & App Developer`
+### `Cybersecurity Enthusiast | Full Stack & App Developer`
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Learning+Offensive+Security;Building+Web+%26+Mobile+Apps;Exploring+Systems+%26+Automation" />
 
