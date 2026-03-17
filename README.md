@@ -1,67 +1,40 @@
-# 👋 Hey, I'm Vishal Chauhan
+# Vishal Chauhan
 
-💻 Cybersecurity Enthusiast | 🛠️ Full Stack Developer | ⚡ Builder of CampusOS
+**Cybersecurity Engineer · Full Stack Developer**
 
----
-
-## 🚀 About Me
-
-* 🔐 Passionate about **Web Security & WAF Bypass Techniques**
-* 🧠 Exploring **Offensive Security & Automation**
-* 🏗️ Building real-world tools like **CampusOS**
-* 🌍 Based in India
+Building secure systems, automation tools, and scalable web applications.
+Focused on **offensive security, WAF research, and backend engineering**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-```bash
-💻 Languages: Python, JavaScript, TypeScript  
-⚙️ Tools: Node.js, Git, Linux  
-🔐 Security: WAF Testing, Proxy Systems, Scraping  
-```
+**Languages:** Python, JavaScript, TypeScript
+**Tools:** Node.js, Git, Linux
+**Focus:** Web Security · Automation · System Design
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Key Projects
 
-### 🔥 WAF-Bypass-Tester
-
-> Advanced penetration testing tool for bypassing web application firewalls
-> ⚙️ Python | 🛡️ Security Research
-
----
-
-### 🌐 CampusOS
-
-> A digital campus ecosystem platform
-> ⚙️ TypeScript | Full Stack
+* **WAF-Bypass-Tester** — Web firewall testing toolkit
+* **CampusOS** — Digital campus platform
+* **Proxy Scraper** — High-performance proxy system
 
 ---
 
-### 🕸️ Proxy Scraper
+## 📊 Stats
 
-> High-speed proxy scraping and validation system
-> ⚙️ Python | Networking
+![Stats](https://github-readme-stats.vercel.app/api?username=cyb3r-vishal\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
----
-
-## 📊 GitHub Stats
-
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb3r-vishal\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3r-vishal\&layout=compact\&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3r-vishal\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect
 
-* 🌐 Website: https://vishalchauhan.in/
-* 🐦 Twitter: (add if you have)
-* 💼 LinkedIn: (add this)
+Website: https://vishalchauhan.in/
 
 ---
 
-## ⚡ Fun Fact
-
-> I break things 🔥 and rebuild them stronger 💪
+⚠️ *All security tools are for educational and ethical use only.*
