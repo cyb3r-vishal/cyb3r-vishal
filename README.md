@@ -2,9 +2,9 @@
 
 # 👨‍💻 Vishal Chauhan
 
-### `Cybersecurity Engineer | Full Stack Developer`
+### `Cybersecurity Enthusiast | Aspiring Security Researcher | Full Stack & App Developer`
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Building+Secure+Systems;Offensive+Security+Research;Automation+%26+Scalable+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Learning+Offensive+Security;Building+Web+%26+Mobile+Apps;Exploring+Systems+%26+Automation" />
 
 </div>
 
@@ -12,8 +12,10 @@
 
 ## 🧠 Profile
 
-Cybersecurity-focused developer building tools and systems with emphasis on **security, performance, and automation**.
-Experienced in developing real-world solutions across **web, infrastructure, and security testing**.
+Passionate about **cybersecurity and system-level thinking**, currently exploring
+**offensive security, automation, and scalable application development**.
+
+Building real-world projects across **web, backend, and mobile ecosystems**.
 
 ---
 
@@ -21,26 +23,20 @@ Experienced in developing real-world solutions across **web, infrastructure, and
 
 ```bash
 Languages   → Python, JavaScript, TypeScript  
-Backend     → Node.js, APIs, System Design  
-Security    → WAF Testing, Recon, Automation  
-Environment → Linux, Git, CLI
+Frontend    → React, Modern UI Systems  
+Backend     → Node.js, APIs  
+Mobile      → App Development (React Native / similar)  
+Security    → WAF Testing, Recon (learning phase)  
+Environment → Linux, Git
 ```
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Projects
 
-### 🔐 WAF-Bypass-Tester
-
-Advanced toolkit for analyzing and bypassing web application firewalls.
-
-### 🌐 CampusOS
-
-Scalable digital ecosystem for campus infrastructure.
-
-### 🕸️ Proxy Scraper
-
-High-speed proxy collection, validation, and rotation system.
+* **WAF-Bypass-Tester** — Security testing toolkit (learning-focused)
+* **CampusOS** — Full-stack campus platform
+* **Proxy Scraper** — Automation & networking system
 
 ---
 
@@ -65,12 +61,12 @@ High-speed proxy collection, validation, and rotation system.
 
 ## ⚠️ Disclaimer
 
-All security-related projects are intended strictly for **educational and ethical research purposes**.
+Security-related projects are for **educational and ethical learning purposes only**.
 
 ---
 
 <div align="center">
 
-### ⚡ "Break. Understand. Secure."
+### ⚡ "Learn. Build. Break. Improve."
 
 </div>
