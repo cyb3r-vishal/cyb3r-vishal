@@ -1,5 +1,5 @@
 <div align="center">
-## Cybersecurity Enthusiast | Full-Stack & Mobile Developer
+**Cybersecurity Enthusiast | Full-Stack & Mobile Developer**
 
 </div>
 
