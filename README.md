@@ -1,7 +1,5 @@
 <div align="center">
-
-# Vishal Chauhan  
-**Cybersecurity Enthusiast | Full-Stack & Mobile Developer**
+## Cybersecurity Enthusiast | Full-Stack & Mobile Developer
 
 </div>
 
@@ -23,13 +21,6 @@ Currently exploring **offensive security** while building real-world systems acr
 
 ---
 
-## Projects
-- **WAF-Bypass-Tester** — Security testing toolkit  
-- **CampusOS** — Full-stack campus platform  
-- **Proxy Scraper** — Automation & networking tool  
-
----
-
 ## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyb3r-vishal&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -42,9 +33,6 @@ Currently exploring **offensive security** while building real-world systems acr
 - Portfolio: https://vishalchauhan.in/
 
 ---
-
-## Note
-All security-related work is strictly for **educational and ethical purposes**.
 
 <div align="center">
 
